@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-class UDPclient
+class udpsocket_client
 {
  public static void main(String args[])throws Exception
  {
